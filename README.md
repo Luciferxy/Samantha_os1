@@ -13,14 +13,6 @@ Samantha is an AI assistant inspired by the movie *Her*. This project is built t
 ## YouTube Demo
 Watch a 2-minute demonstration of Samantha in action, where I showcase real-time voice interactions and various capabilities of the AI assistant.
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=qVstKgrwX_o">
-    <img src="images/thumbnail_short_demo.png" alt="YouTube Demo" width="500">
-  </a>
-  <br>
-  <em>👆 Click the image to watch the demo on YouTube</em>
-</p>
-
 
 ## Setup and Running
 
@@ -80,3 +72,4 @@ This project includes several powerful tools:
 - **Python File Execution**: Create and execute Python scripts directly from the assistant.
 - **🆕 Database Interaction**: Convert natural language to SQL and execute db commands with formatted results.
 - **🆕 Email Drafting**: Compose professional, personalized emails with appropriate subject lines and content.
+
